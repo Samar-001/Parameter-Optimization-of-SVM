@@ -23,7 +23,7 @@
 |S9	|0.875000	|poly	|0.1	|1|
 |S10	|0.833333	|poly	|0.1	|1|
 
-### Convergence graph for Sample 2 : 
+### Convergence of SVC graph: 
 ![image](https://raw.githubusercontent.com/Samar-001/Parameter-Optimization-of-SVM/main/Output%20Graph.png)
 
 
